@@ -4,3 +4,4 @@
 
 ### root 7'dir. 5 root'un solunda bulunur. 1, 5'in altında solda bulunur. 8 rootun sağında bulunur. 3, 1'in altında sağda bulunur. 6, 5'in sağında bulunur. 0, 1'in altında solda bulunur. 9, 8'in sağında bulunur. 4, 3'ün altında sağda bulunur. 2 ise 3'ün altında solda bulunur.
 
+![a](https://user-images.githubusercontent.com/86270311/236262669-eb69cf8c-f900-4f68-8fea-19e1ea03f677.png)
