@@ -1,1 +1,1 @@
-# patika-algoritma-projeler
+# Patika Veri Yapıları ve Algoritmalar Projeleri
